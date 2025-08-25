@@ -1,0 +1,6 @@
+pymupdf
+transformers
+streamlit
+scikit-learn
+pandas
+python-dotenv
