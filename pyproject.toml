@@ -3,7 +3,11 @@ line-length = 100
 
 [tool.ruff]
 line-length = 100
+
+[tool.ruff.lint]
 select = ["E", "F", "I", "N", "UP", "B"]
+ignore = ["E501"]
+
 
 [tool.pytest.ini_options]
 addopts = "-q"

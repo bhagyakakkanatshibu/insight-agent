@@ -1,0 +1,21 @@
+• 
+Machine Learning & AI: scikit-learn, XGBoost, LightGBM, TensorFlow, Keras, 
+CatBoost, MLOps fundamentals 
+• 
+Generative AI & LLMs: ChatGPT, Claude, Perplexity, HeyGen, Krea.ai, Midjourney, Stable 
+Diffusion, DALL·E, Hugging Face Transformers, LangChain 
+• 
+Deep Learning & Neural Networks: CNNs, RNNs, LSTMs, Transformers, Autoencoders 
+• 
+Natural Language Processing (NLP): spaCy, NLTK, RASA, OpenAI APIs 
+• 
+Programming & Scripting: Python, SQL, Shell scripting 
+• 
+Data Analysis & Visualisation: Pandas, NumPy, Seaborn, Plotly, Matplotlib, Tableau, PowerBI 
+• 
+Cloud & Big Data Platforms: Azure, AWS,Huawei Cloud, Databricks, Hadoop, Spark, Hive, 
+PySpark 
+• 
+Tools & DevOps: Git, Jupyter, IntelliJ, VS Code, Kubernetes, Docker 
+• 
+Databases: MySQL

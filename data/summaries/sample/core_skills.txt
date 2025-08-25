@@ -1,0 +1,9 @@
+- Core skills include proficiency in machine learning and AI tools like scikit-learn, XGBoost, LightGBM, TensorFlow, Keras, CatBoost, MLOps fundamentals.
+- Generative AI & LLMs are covered with knowledge of ChatGPT, Claude, Perplexity, HeyGen, Krea.ai, Midjourney, Stable Diffusion, and technologies like DALL·E, Hugging Face Transformers, LangChain.
+- Deep Learning skills encompass understanding CNNs (Convolutional Neural Networks), RNNs (Recurrent Neural Networks), LSTMs (Long Short Term Memory networks), Transformers and Autoencoders architectures.
+- NLP expertise is demonstrated through familiarity with spaCy, NLTK libraries, tools like RASA, as well as OpenAI APIs for language processing tasks.
+- Programming skills are highlighted by proficiency in Python programming languages, SQL databases management and shell scripting techniques to automate processes or handle data manipulation.
+- Data Analysis & Visualization capabilities include the use of Pandas, NumPy libraries along with Seaborn, Plotly, Matplotlib for creating visual representations; Tableau and PowerBI are also mentioned as platforms for advanced analytics dashboards.
+- Cloud & Big Data Platforms knowledge is shown through experience in Azure, AWS (Amazon Web Services), Huawei Cloud services like Databricks, Apache Spark with its ecosystem including Hive and PySpark tools.
+- Tools & DevOps skills are evidenced by familiarity with version control systems such as Git, interactive coding environments like Jupyter notebooks, Integrated Development Environments (IDEs) IntelliJ and VS Code; also includes experience in containerization using Docker and orchestration tool Kubernetes.
+- Database expertise is demonstrated through knowledge of MySQL database management system for storing, retrieving, and managing data efficiently.

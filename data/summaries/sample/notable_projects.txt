@@ -1,0 +1,5 @@
+- Developed an NLP system for automatic FMEA analysis, enhancing defect tracking efficiency and validated by Bosch top management.
+
+- Created a PDF Analyzer tool that extracts structured insights from unstructured documents to streamline data processing.
+
+- Implemented a Self-Calibration Model using reinforcement learning for autonomous improvement of automotive system tuning processes.

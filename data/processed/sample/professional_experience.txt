@@ -1,0 +1,46 @@
+Data Scientist  
+Robert Bosch China (BCSC), Wuxi, China | Mar 2022 - Dec 2024 
+• 
+Developed and deployed an NLP-based Proof of Concept for automated FMEA analysis, 
+approved by Bosch top management; enabled predictive fault analysis and optimized 
+testing resource allocation. 
+• 
+Led end-to-end data science and analytics projects as the single point of contact for stakeholders 
+across departments 
+• 
+Conducted real-time analytics on Bosch’s Vehicle Data Lake using Python and Spark, identifying 
+key failure mode correlations and fleet-level behavioral trends, enhancing fault prediction across 
+multi-market operations. 
+• 
+Contributed to the development of a reinforcement learning-based self-calibration model for 
+automotive control systems, improving adaptability and reducing manual tuning time across 
+product lines. 
+• 
+Built and automated cloud-based CCU reporting pipelines leveraging Python, Tableau, Huawei 
+Cloud, and Hadoop, reducing manual reporting time by over 60% and delivering stakeholder- 
+ready insights weekly. 
+• 
+Led a data-driven cost-saving initiative by analyzing End-of-Line (EOL) test datasets, identifying 
+redundant test parameters, and achieving estimated annual savings of ¥400,000 while 
+maintaining predictive model performance. 
+• 
+Developed a PDF Analyzer tool utilizing NLP (spaCy, NLTK) to extract structured insights from 
+unstructured engineering documents, reducing manual review time and accelerating validation 
+decision-making processes.
+
+--- Page 2 ---
+• 
+Collaborated with global cross-functional teams (Germany, India, Japan, Korea) to 
+align data science initiatives, resolve technical integration challenges, and ensure 
+timely delivery of multi- region solutions. 
+ 
+Systems Engineer 
+Tata Consultancy Services (TCS), Bangalore, India | Sep 2014 - Jul 2019 
+• 
+Conducted exploratory data analysis and statistical modeling as part of ML R&D team. 
+• 
+Designed and deployed a chatbot using RASA to assist users with restaurant queries. 
+• 
+Performed churn analysis for telecom clients, driving customer retention strategies. 
+• 
+Executed penetration and security testing using Burp Suite Professional.

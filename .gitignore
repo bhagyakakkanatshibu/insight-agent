@@ -1,4 +1,4 @@
 .env
 *.pdf
-*.txt
+#*.txt
 OpenAI API key.txt

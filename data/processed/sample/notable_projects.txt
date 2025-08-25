@@ -1,0 +1,8 @@
+• 
+Automatic FMEA Analysis – NLP system replacing manual defect tracking; 
+validated by Bosch top management. 
+• 
+PDF Analyzer – Tool to extract structured insights from unstructured documents. 
+• 
+Self-Calibration Model – Reinforcement learning algorithm improving automotive 
+system tuning autonomously.

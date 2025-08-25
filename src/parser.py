@@ -1,9 +1,11 @@
 # src/parser.py
-from pathlib import Path
-import fitz  # PyMuPDF
-import sys
 import re
+import sys
 from collections import Counter
+from pathlib import Path
+
+import fitz  # PyMuPDF
+
 
 def _strip_weird_chars(text: str) -> str:
     # remove box symbols, bullets, control chars

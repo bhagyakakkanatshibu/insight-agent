@@ -1,15 +1,15 @@
 # src/agent.py — Ollama-only summarizer (structured, faster, Windows-safe)
 
+import json
 import os
 import sys
-import json
 import time
 from pathlib import Path
 from urllib.request import urlopen
-from dotenv import load_dotenv
 
 # Third-party
 import ollama
+from dotenv import load_dotenv
 
 # ---------- Config & .env ----------
 ROOT = Path(__file__).resolve().parent.parent

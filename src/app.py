@@ -1,12 +1,12 @@
-import streamlit as st
-import os
-from pathlib import Path
 
 # Import your existing modules
 import parser
-import segmenter
-import agent
+from pathlib import Path
 
+import streamlit as st
+
+import agent
+import segmenter
 
 st.set_page_config(page_title="Insight Agent", layout="wide")
 st.title("📄 Insight Agent - Smart Document Summarizer")
